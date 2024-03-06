@@ -262,7 +262,7 @@ nav{
         cursor: pointer;
         width: 34px;
         height: 34px;
-filter: invert(100%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%) contrast(104%);
+        filter: invert(88%) sepia(100%) saturate(1872%) hue-rotate(174deg) brightness(131%) contrast(95%);
     }
 
 .mobile_social img:hover{
@@ -887,7 +887,7 @@ section {
 }
 
 .header_lb a img{
-    color: aliceblue;
+    color: var(--white1);
     cursor: pointer;
     width: 34px;
     height: 34px;
@@ -895,7 +895,7 @@ section {
     -moz-transition:all 0.3s;
     -webkit-transition:all 0.3s;
      transition:all 0.3s;
-filter: invert(100%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%) contrast(104%);
+     filter: invert(88%) sepia(100%) saturate(1872%) hue-rotate(174deg) brightness(131%) contrast(95%);
 } 
 
 .header_lb a img:hover, .header_lb a img:active {
