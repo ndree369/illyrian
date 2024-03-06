@@ -22,7 +22,7 @@
   --white0: #F8F9FA;
     
     
-  --green0: #ed0000;
+  --red0: #ed0000;
 }
 
 body{
@@ -193,7 +193,7 @@ nav{
   cursor: pointer;
 }
 .nav-links li a:hover {
-  color: var(--green0);
+  color: var(--red0);
 }
 .nav-links li {
   position: relative;
@@ -538,7 +538,7 @@ filter: invert(91%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%)
 }
 
 .sale {
-  color: var(--green0);
+  color: var(--red0);
   }
 
 /***********************************************************/
@@ -792,7 +792,7 @@ section {
   padding-bottom: 6px;
 }
 .watch-card p:hover{
-  color: var(--green0);
+  color: var(--red0);
 }
 
 .content{
@@ -953,7 +953,7 @@ filter: invert(100%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%
 .how-to-card h3{
   /*color: var(--white2);*/
   font-size: 19px;
-  color: var(--green0);
+  color: var(--red0);
 }
 
 .how-to-card h4 {
@@ -965,7 +965,7 @@ filter: invert(100%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%
     font-weight: 500;
 }
 .how-to-card h5 {
-    color: var(--green0);
+    color: var(--red0);
     margin: auto;
     width: 90%;
     text-align: left;
@@ -982,7 +982,7 @@ filter: invert(100%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%
 }
 
 .how-to-card a {
-    color: var(--green0);
+    color: var(--red0);
     margin: auto;
     width: 90%;
     cursor: pointer;
@@ -1019,7 +1019,7 @@ filter: invert(100%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%
 }
 
 .finalnote a{
-    color: var(--green0);
+    color: var(--red0);
     margin: auto;
     cursor: pointer;
     font-weight: 500;
@@ -1270,7 +1270,7 @@ form.cnt-form {
 	color: #ff0000;
 }
 .status-msg.success{
-	color: var(--green0);
+	color: var(--red0);
 }
 
 
@@ -1358,7 +1358,7 @@ form.cnt-form {
 
 .testim .dots .dot.active,
 .testim .dots .dot:hover {
-    background: var(--green0);
+    background: var(--red0);
     border-color: #FAFAFA;
 }
 
@@ -1883,7 +1883,7 @@ form.cnt-form {
 
 .coupon{
     background: none;
-    color: var(--green0);
+    color: var(--red0);
     text-align:center;
     box-shadow: none; 
     width:100%;
@@ -2009,7 +2009,7 @@ form.cnt-form {
     50%{opacity:1}}
 
 .spinner-grow{
-    color: var(--green0);
+    color: var(--red0);
     display:inline-block;
     width:2rem;
     height:2rem;
@@ -2039,7 +2039,7 @@ form.cnt-form {
 
 .giveaway-cardh3{
   font-size: 19px;
-  color: var(--green0);
+  color: var(--red0);
 }
 
 .giveaway-card h4 {
@@ -2061,7 +2061,7 @@ form.cnt-form {
 }
 
 .giveaway-card .results a{
-    color: var(--green0);
+    color: var(--red0);
     width: 90%;
     cursor: pointer;
     font-size: 16px;
