@@ -267,8 +267,8 @@ filter: invert(100%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%
 
 .mobile_social img:hover{
         cursor: pointer;
-filter: invert(91%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%) contrast(104%);
-    }
+        filter: brightness(0) saturate(100%) invert(9%) sepia(76%) saturate(7131%) hue-rotate(0deg) brightness(128%) contrast(114%);
+      }
 
 
 @media screen and (min-width:1251px){
@@ -899,7 +899,7 @@ filter: invert(100%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%
 } 
 
 .header_lb a img:hover, .header_lb a img:active {
-    filter: invert(91%) sepia(5%) saturate(4148%) hue-rotate(88deg) brightness(101%) contrast(104%);
+  filter: brightness(0) saturate(100%) invert(9%) sepia(76%) saturate(7131%) hue-rotate(0deg) brightness(128%) contrast(114%);
     -moz-transform: scale(1.05);
     -webkit-transform: scale(1.05);
      transform: scale(1.05)
